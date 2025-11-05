@@ -7,5 +7,3 @@
   
 # runcode 
 # streamlit run app.py
-
-# ลบคำว่า Example ออก ให้เหลือเเค่ .env เเละเอา # ที่อยู่ด้านหน้าออก เอา # ใน secrets ออกด้วยนะ
